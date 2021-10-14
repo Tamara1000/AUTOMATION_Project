@@ -8,11 +8,8 @@ and check if the data obtained ia actually correct.
 Running the project is very simple. 
 I used significant names for variables so that the code documents itself. 
 
-Beyond that the scripts contain functions of: 
-*accessing the url
-*finding test objects in html tree
-*verifing text elements 
-*comparing results.
+Beyond that the scripts contain functions of: accessing the url, finding test objects in html tree,
+verifing text elements and comparing results.
 
 To write the response to the video I used POST while to get it I used the GET method.
 For the number of views and likes, I kept them in variables and checked if they are indeed varieties for the data I received from the tests.
