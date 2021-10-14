@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UI Sanity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f3218cf-b2a1-4b65-8f59-02cf95be1199</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>b6ec8cbb-318e-43c2-b0f1-e56fa5e51f54</id>
+      <masked>false</masked>
+      <name>likesCount</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://vimeo.com/158830396'</defaultValue>
+      <description></description>
+      <id>053108e5-77cc-4450-b5cd-c83ead09cfe4</id>
+      <masked>false</masked>
+      <name>urlComment</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://vimeo.com/74069582'</defaultValue>
+      <description></description>
+      <id>365f81d7-ab0e-40fc-80f4-8329784e92cf</id>
+      <masked>false</masked>
+      <name>urlViewsAndLikes</name>
+   </variable>
+</TestCaseEntity>

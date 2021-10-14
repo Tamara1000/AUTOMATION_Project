@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Post a video comment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16f15670-b683-4ec2-b83f-3b32c3c4e932</testCaseGuid>
+   <variable>
+      <defaultValue>'80fd7995b6c56cddf9a5fb8185fd6583'</defaultValue>
+      <description></description>
+      <id>847c3010-b5d2-476d-ad1b-000564a1092d</id>
+      <masked>false</masked>
+      <name>accessToken</name>
+   </variable>
+   <variable>
+      <defaultValue>'3639829'</defaultValue>
+      <description></description>
+      <id>e60d27e8-f4b9-4217-9158-ee9637f3031f</id>
+      <masked>false</masked>
+      <name>videoId</name>
+   </variable>
+   <variable>
+      <defaultValue>'Great video!'</defaultValue>
+      <description></description>
+      <id>95c5c171-d494-4f14-b8de-9d379d7b2fdd</id>
+      <masked>false</masked>
+      <name>commentText</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://api.vimeo.com/videos/3639829/comments'</defaultValue>
+      <description></description>
+      <id>1be8c30f-5937-40a0-9ccf-5dbcc840708b</id>
+      <masked>false</masked>
+      <name>urlVideoCommentApi</name>
+   </variable>
+</TestCaseEntity>
